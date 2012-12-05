@@ -8,7 +8,7 @@ this repo is just a simple set of instructions on how to use the free github htt
 
 - static file host
 - entirely managed from the github.com web UI
-- free (github gives you a certain number of megabytes for free, you can pay to get more) 
+- free
 - able to use custom domains (so that yourdomain.com points to your files on github)
 - very simple
 
