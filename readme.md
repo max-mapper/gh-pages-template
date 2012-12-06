@@ -2,7 +2,7 @@
 
 ### Use Github to host web sites without having to download an app or use the command line
 
-this repository is just a simple set of instructions on how to use the free github http://pages.github.com functionality to host static websites. an example of a github hosted static site is my own [personal internet web blog](http://maxogden.com)
+this repository is just a simple set of instructions on how to use the free github http://pages.github.com functionality to host static websites. an example of a github hosted static site is my own [personal internet web blog](http://maxogden.com) as well as [realtimecats.com](http://realtimecats.com).
 
 ## Why
 
