@@ -18,7 +18,7 @@ Traditionally git has been for computer programmers, but recently github added s
 
 ## What it isn't
 
-a dynamic host -- so it can't do PHP/Rails/Node etc. The only ways to do dynamic content are Javascript with an externally hosted backend (e.g. [Parse](http://parse.com/) or set up a [jekyll blog](https://help.github.com/articles/using-jekyll-with-pages), the easiest way to do this is with [Jekyll Bootstrap](http://jekyllbootstrap.com/) - this is not really dynamic, it just generates static HTML from Markdown, but appears like a more dynamic blog.
+a dynamic host -- so it can't do PHP/Rails/Node etc. The only ways to do dynamic content are JavaScript with an externally hosted backend (e.g. [Parse](http://parse.com/)) or set up a [jekyll blog](https://help.github.com/articles/using-jekyll-with-pages). The easiest way to do this is with [Jekyll Bootstrap](http://jekyllbootstrap.com/) - this is not really dynamic, it just generates static HTML from Markdown, but appears like a more dynamic blog.
 
 
 ## How to set up a site
