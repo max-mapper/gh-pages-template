@@ -1,0 +1,1 @@
+goban.init();
