@@ -6,7 +6,7 @@ this repository is just a simple set of instructions on how to use the free gith
 
 ## Why
 
-Traditionally git has been for computer programmers, but recently github added some new features to their website which make it possible for non-technical people to set up repos on github! All the things mentioned here can be done with just a web browser. 
+Traditionally, git has been for computer programmers, but recently github added some new features to their website which make it possible for non-technical people to set up repos on github! All the things mentioned here can be done with just a web browser. 
 
 ## What it is
 
@@ -23,7 +23,7 @@ a dynamic host -- so it can't do PHP/Rails/Node etc. The only ways to do dynamic
 
 ## How to set up a site
 
-this repo is setup to only have the special **gh-pages** branch that github requires to use static file hosting. when you create and view repos on github they usually show you the default `master` branch which doesn't work with static file hosting
+This repo is set up to only have the special **gh-pages** branch that github requires to use static file hosting. when you create and view repos on github they usually show you the default `master` branch which doesn't work with static file hosting
 
 1. login to github and fork this repo [github.com/maxogden/gh-pages-template](https://github.com/maxogden/gh-pages-template)
 2. you will need to edit a file in your forked repo so that github knows to deploy your static site! try going to index.html and clicking the edit button, making a small change, and then commiting your change
@@ -32,7 +32,7 @@ this repo is setup to only have the special **gh-pages** branch that github requ
 5. the admin button at the top of the repo page will let you rename the repository
 6. to point a custom domain at github edit the file called `CNAME` and make sure its contents are only `whateveryourdomainis.com` then go to your domain control panel and make sure the `A` record points to `204.232.175.78`. For more detailed instructions see [this article](https://help.github.com/articles/setting-up-a-custom-domain-with-pages)
 
-thats it!
+That's it!
 
 ## License
 
