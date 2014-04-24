@@ -30,7 +30,7 @@ this repo is setup to only have the special **gh-pages** branch that github requ
 3. now you can go to **yourusername.github.com/gh-pages-template** and you should see the hello world page! it might take a few minutes for github to generate
 4. using the github web UI you can [create new files](https://github.com/blog/1327-creating-files-on-github) or [edit existing files](https://github.com/blog/143-inline-file-editing)
 5. the admin button at the top of the repo page will let you rename the repository
-6. to point a custom domain at github edit the file called `CNAME` and make sure its contents are only `whateveryourdomainis.com` then go to your domain control panel and make sure the `A` record points to `204.232.175.78`. For more detailed instructions see [this article](https://help.github.com/articles/setting-up-a-custom-domain-with-pages)
+6. to point a custom domain at github edit the file called `CNAME` and make sure its contents are only `whateveryourdomainis.com` and then proceed to [set up your DNS](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages)
 
 thats it!
 
