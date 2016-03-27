@@ -27,7 +27,7 @@ this repo is setup to only have the special **gh-pages** branch that github requ
 
 1. login to github and fork this repo [github.com/maxogden/gh-pages-template](https://github.com/maxogden/gh-pages-template)
 2. you will need to edit a file in your forked repo so that github knows to deploy your static site! try going to index.html and clicking the edit button, making a small change, and then commiting your change
-3. now you can go to **yourusername.github.com/gh-pages-template** and you should see the hello world page! it might take a few minutes for github to generate
+3. now you can go to **yourusername.github.io/gh-pages-template** and you should see the hello world page! it might take a few minutes for github to generate
 4. using the github web UI you can [create new files](https://github.com/blog/1327-creating-files-on-github) or [edit existing files](https://github.com/blog/143-inline-file-editing)
 5. the admin button at the top of the repo page will let you rename the repository
 6. to point a custom domain at github edit the file called `CNAME` and make sure its contents are only `whateveryourdomainis.com` and then proceed to [set up your DNS](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages)
