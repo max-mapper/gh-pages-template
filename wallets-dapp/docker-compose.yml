@@ -1,0 +1,13 @@
+version: '2'
+services:
+  node:
+    image: 'node:16'
+    user: 'node'
+    working_dir: /Users/local/Library/CloudStorage/OneDrive-Personal/Documents/devein_blockchain/python/mighty_env/full-stack/wallets-dapp/src
+    environment:
+      - NODE_ENV=production
+    volumes:
+      - ./:/Users/local/Library/CloudStorage/OneDrive-Personal/Documents/devein_blockchain/python/mighty_env/full-stack/wallets-dapp/src
+    expose:
+      - '8888'
+    command: 'npm start'
